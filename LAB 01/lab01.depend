@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695349524 source:d:\unsa\cursos\3er año\ii semestre\estructuras de datos avanzadas\laboratorio\lab01\lab01\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<random>
+	<cmath>
+	<map>
+
